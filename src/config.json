@@ -1,0 +1,8 @@
+{
+    "pathControl": "https://discord.com/channels/931536214228611102/1238164191718670407/1244240296498167881",
+    "clientId": "1244404520717520926",
+    "clientSecret": "qg-j7VbP0OVmbfhsh8c5MMPtojZtfX8A",
+    "redirectUri": "http://localhost:3333/api/v1/auth/discord/callback",
+    "owners": ["833340407130882068"],
+    "logFilePath": "logs/requests.log"
+}
